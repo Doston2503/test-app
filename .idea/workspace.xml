@@ -35,6 +35,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\frontend\github\test-app\css" />
+      <recent name="C:\frontend\github\test-app\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\frontend\github\test-app" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -57,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674743813063</updated>
-      <workItem from="1674743814478" duration="2107000" />
+      <workItem from="1674743814478" duration="3296000" />
     </task>
     <servers />
   </component>
